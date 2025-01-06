@@ -108,6 +108,26 @@ Google Chrome uses HTTP/3 to improve load times and enhance security for website
 ## Diagrams
 
 ### Example: Network Latency Diagram
-![Network Latency Example](link-to-your-diagram-image)
+![Network Latency Example](diagram-image)
+
+---
+
+## Scavenger Hunt
+
+### 1. Fill in the Blank
+"The delay in data transmission caused by distance or network inefficiency is known as __________."
+- **Answer**: Latency
+
+### 2. Multiple Choice
+"Which of the following is a common cause of internet performance issues?"
+- A. Network Congestion
+- B. Packet Loss
+- C. DNS Issues
+- D. All of the Above
+- **Answer**: D. All of the Above
+
+### 3. Open Answer
+"Explain one way that Content Delivery Networks (CDNs) improve internet performance."
+- **Answer**: CDNs cache content in multiple locations globally, serving users from the nearest server to reduce latency and improve load times.
 
 ---
