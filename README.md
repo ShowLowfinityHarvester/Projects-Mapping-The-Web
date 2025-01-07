@@ -17,7 +17,7 @@ Network Congestion occurs when too many users or devices attempt to use the netw
 Latency is the delay between sending and receiving data. High latency impacts activities like video calls, gaming, and live streaming.
 
 ### 3. **Bandwidth Limitations**
-Bandwidth Limitation refers to insufficient data transfer capacity, causing slower load times and buffering.
+Bandwidth Limitation refers to insufficient data transfer capacity, causing slower load times and buffering, metaphorically known as a bandwidth bottleneck.
 
 ### 4. **Packet Loss**
 Packet loss happens when data packets fail to reach their destination, resulting in incomplete or delayed information.
